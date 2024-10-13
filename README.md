@@ -1,6 +1,5 @@
 # KeyCrackerTRX
 For educational purposes only, read the README. 
-For educational purposes only, read the README.
 
 UYARI: Bu yazılım yalnızca eğitim amaçlı olarak oluşturulmuştur ve yalnızca yasal ve etik bir ortamda kullanılması amaçlanmıştır. Yazılım, herhangi bir şekilde kötü niyetli veya yasadışı faaliyetlerde kullanılmamalıdır.
 
